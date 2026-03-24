@@ -4,7 +4,7 @@ Personal portfolio site. Dark theme, terminal aesthetic, brutalist-professional 
 
 **Live:** [lucasfroeschner.com](https://lucasfroeschner.com) (or wherever you're hosting it)
 
-## Tech Stack
+## Tech Stack:
 
 - React 19 + TypeScript
 - Vite 8

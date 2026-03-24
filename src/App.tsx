@@ -57,7 +57,7 @@ function App() {
             >
               LinkedIn
             </a>
-            <a href="/LucasFroeschner_Resume_3-26.pdf" download>
+            <a href="/LucasFroeschner_Resume_3-23.pdf" download>
               Resume
             </a>
           </motion.nav>
