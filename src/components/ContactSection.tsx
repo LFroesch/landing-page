@@ -34,7 +34,7 @@ export default function ContactSection() {
           >
             LinkedIn
           </a>
-          <a href="/LucasFroeschner_Resume_3-23.pdf" download>
+          <a href="/LucasFroeschner_Resume.pdf" download>
             Resume
           </a>
         </nav>

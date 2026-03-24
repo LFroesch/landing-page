@@ -114,7 +114,7 @@ export default function ResumeSection() {
         viewport={{ once: true, margin: "-40px" }}
         transition={{ duration: 0.4, delay: 0.4, ease }}
       >
-        <a href="/LucasFroeschner_Resume_3-23.pdf" download className="resume-btn">
+        <a href="/LucasFroeschner_Resume.pdf" download className="resume-btn">
           Download PDF →
         </a>
       </motion.div>
