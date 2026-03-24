@@ -26,7 +26,11 @@ export default function ProjectSection({ project, index }: Props) {
         transition={{ duration: 0.6, ease: [0.25, 0.1, 0.25, 1] as const }}
       >
         <div className="project-number">{num}</div>
-        <h2 className="project-name">{project.name}</h2>
+        <h2 className="project-name">
+          <a href={project.liveUrl || project.github} target="_blank" rel="noreferrer">
+            {project.name}
+          </a>
+        </h2>
         <p className="project-tagline">{project.tagline}</p>
         <ul className="project-highlights">
           {project.highlights.map((h, i) => (

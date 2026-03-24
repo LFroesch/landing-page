@@ -169,6 +169,16 @@ body {
   margin-bottom: 0.4rem;
 }
 
+.project-name a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.project-name a:hover {
+  color: var(--green);
+}
+
 .project-tagline {
   font-family: var(--font-body);
   font-size: 0.9rem;
