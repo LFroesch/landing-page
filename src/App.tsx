@@ -1,7 +1,6 @@
 import { motion } from "framer-motion"
 import ContactSection from "./components/ContactSection"
 import CurrentlySection from "./components/CurrentlySection"
-import OrbitalRings from "./components/OrbitalRings"
 import PaperPlanes from "./components/PaperPlanes"
 import ProjectSection from "./components/ProjectSection"
 import ResumeSection from "./components/ResumeSection"
