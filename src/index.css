@@ -28,6 +28,17 @@ body {
   line-height: 1.6;
 }
 
+/* ── Orbital Rings ── */
+
+.orbital-rings {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /* ── Paper Planes ── */
 
 .paper-planes {
